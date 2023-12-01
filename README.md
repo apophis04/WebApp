@@ -8,7 +8,7 @@
 - Node.js
 
 ## ==> [How to setup](https://github.com/apophis04/WebApp/blob/main/How_to_Run.md)
-## ==> [Web App Images](https://github.com/apophis04/WebApp/blob/main/How_to_Run.md)
+## ==> [Web App Images](https://github.com/apophis04/WebApp/tree/main/Project%20Overview/New%20folder)
 **Project Description:**
 
 This project is a comprehensive healthcare management system designed to streamline communication and data management among patients, doctors, and administrators. It incorporates features such as patient blog posts, pre-medical forms, and a centralized dashboard for administrators to oversee the entire system. Here's a breakdown of the key components and functionalities:
