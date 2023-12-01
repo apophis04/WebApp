@@ -1,4 +1,4 @@
-# MedAdvisor
+![image](https://github.com/apophis04/WebApp/assets/114154279/5ea5bb58-e409-4a5a-a33b-09fe6b000e73)# MedAdvisor
 
 ## BUY WEB APP: [**Buy**](https://www.buymeacoffee.com/apophis04/e/188504)
 
@@ -51,5 +51,5 @@ This project is a comprehensive healthcare management system designed to streaml
 
 This healthcare management system aims to enhance communication and data management within the healthcare ecosystem, providing a user-friendly platform for patients, doctors, and administrators alike.
 
-[![Web App Functionality ](https://www.veed.io/view/41a3b4cb-ab5b-4787-ad54-02ac1761cd52)](https://www.veed.io/view/41a3b4cb-ab5b-4787-ad54-02ac1761cd52?panel=share)
+[![Web App Functionality ](https://github.com/apophis04/WebApp/assets/114154279/4cfdbf50-06bb-4693-8637-341830caffc5)](https://www.veed.io/view/41a3b4cb-ab5b-4787-ad54-02ac1761cd52?panel=share)
 
