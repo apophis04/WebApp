@@ -7,6 +7,9 @@
 - Bootstrap
 - Node.js
 
+**How to setup**
+[How to setup](relative/path/to/your/file)
+
 **Project Description:**
 
 This project is a comprehensive healthcare management system designed to streamline communication and data management among patients, doctors, and administrators. It incorporates features such as patient blog posts, pre-medical forms, and a centralized dashboard for administrators to oversee the entire system. Here's a breakdown of the key components and functionalities:
