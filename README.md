@@ -51,5 +51,5 @@ This project is a comprehensive healthcare management system designed to streaml
 
 This healthcare management system aims to enhance communication and data management within the healthcare ecosystem, providing a user-friendly platform for patients, doctors, and administrators alike.
 
+[![Web App Functionality ](https://github.com/apophis04/WebApp/blob/main/Project%20Overview/New%20folder/Screenshot%202023-11-24%20121147.png)](https://www.veed.io/view/41a3b4cb-ab5b-4787-ad54-02ac1761cd52?panel=share)
 
-![Alt Text](https://www.veed.io/view/41a3b4cb-ab5b-4787-ad54-02ac1761cd52)
