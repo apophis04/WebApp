@@ -1,7 +1,7 @@
 # MedAdvisor
 
 ## BUY WEB APP: 
-[**Buy**]([your_coffee_link_here](https://www.buymeacoffee.com/apophis04/e/188504))
+[**Buy**](https://www.buymeacoffee.com/apophis04/e/188504)
 
 **Technologies Used**
 - React
