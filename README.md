@@ -9,6 +9,8 @@
 
 ## - [How to setup](https://github.com/apophis04/WebApp/blob/main/How_to_Run.md)
 ## - [Web App Images](https://github.com/apophis04/WebApp/tree/main/Project%20Overview/New%20folder)
+## Click to watch Web App Preview 
+[![Web App Functionality ](https://github.com/apophis04/WebApp/assets/114154279/332dc274-1b64-4e58-a573-b1daf4273ee6)](https://www.veed.io/view/41a3b4cb-ab5b-4787-ad54-02ac1761cd52?panel=share)
 
 ## **Project Description:**
 
@@ -51,5 +53,4 @@ This project is a comprehensive healthcare management system designed to streaml
 
 This healthcare management system aims to enhance communication and data management within the healthcare ecosystem, providing a user-friendly platform for patients, doctors, and administrators alike.
 
-[![Web App Functionality ](https://github.com/apophis04/WebApp/assets/114154279/332dc274-1b64-4e58-a573-b1daf4273ee6)](https://www.veed.io/view/41a3b4cb-ab5b-4787-ad54-02ac1761cd52?panel=share)
 
