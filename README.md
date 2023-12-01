@@ -8,7 +8,7 @@
 - Node.js
 
 **How to setup**
-[How to setup](relative/path/to/your/file)
+[How to setup](WebApp/How to Run.md)
 
 **Project Description:**
 
