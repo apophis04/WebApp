@@ -7,7 +7,7 @@
 - Bootstrap
 - Node.js
 
-## [How to setup](https://github.com/apophis04/WebApp/blob/main/How_to_Run.md)
+## ==> [How to setup](https://github.com/apophis04/WebApp/blob/main/How_to_Run.md)
 
 **Project Description:**
 
