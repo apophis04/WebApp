@@ -51,5 +51,5 @@ This project is a comprehensive healthcare management system designed to streaml
 
 This healthcare management system aims to enhance communication and data management within the healthcare ecosystem, providing a user-friendly platform for patients, doctors, and administrators alike.
 
-![Alt Text]([url_to_your_gif](https://www.veed.io/view/41a3b4cb-ab5b-4787-ad54-02ac1761cd52)https://www.veed.io/view/41a3b4cb-ab5b-4787-ad54-02ac1761cd52)
+![Alt Text]((https://www.veed.io/view/41a3b4cb-ab5b-4787-ad54-02ac1761cd52)https://www.veed.io/view/41a3b4cb-ab5b-4787-ad54-02ac1761cd52)
 
