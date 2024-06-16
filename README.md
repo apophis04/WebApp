@@ -3,9 +3,9 @@
 ## BUY WEB APP: [**Buy**](https://www.buymeacoffee.com/apophis04/e/188504)
 
 **Technologies Used**
-- React
+- React ( Frontend )
+- Django ( Backend )
 - Bootstrap
-- Node.js
 
 ## - [How to setup](https://github.com/apophis04/WebApp/blob/main/How_to_Run.md)
 ## - [Web App Images](https://github.com/apophis04/WebApp/tree/main/Project%20Overview/New%20folder)
